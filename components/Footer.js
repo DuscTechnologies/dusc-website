@@ -6,7 +6,7 @@ export default function Footer() {
     <Typography variant="body2" color="text.secondary" align="center">
       {'Copyright © '}
       <MuiLink color="inherit" href="https://dusc.tech/">
-        ducs
+        dusc
       </MuiLink>{' '}
       {new Date().getFullYear()}.
     </Typography>
